@@ -1,4 +1,4 @@
-# Demo
+# Demo repo
 
 Some description!
 
