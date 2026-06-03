@@ -10,4 +10,4 @@ I am watching this tutorial on YouTube.
 
 ## Local Development
 
-1. open index.html in your browser
+1. Open index.html in your browser
